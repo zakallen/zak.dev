@@ -15,10 +15,10 @@ and was even named [Big Ten Defensive Player of the Week][nusports] ⚽️.
 
 During my senior year I worked part time getting [FlyHomes][flyhomes] off the ground.
 As I finished my degree, I was able to transition to full-time and build out a 5 person
-team based out of India. We had around 50 homes sold across 3 cities, and had built the team to
-about 20. Here's a somewhat recent [article][flyhomes-daily] about the early days.
+team based out of India. We sold around 50 homes sold across 3 cities, and built the team to
+about 20 before I left. Here's a somewhat recent [article][flyhomes-daily] about the early days.
 
-In February 2017 I decided to move to San Francisco and join [Shogun][shogun] (or better known
+In February 2017 I decided to move to San Francisco and join [Shogun][shogun] (better known
 as [Hearth][hearth] to our customers). Since then we've grown the company to over 80 people.
 
 On the side I follow space, advise [Blockrize][blockrize], and have been working on a code-driven

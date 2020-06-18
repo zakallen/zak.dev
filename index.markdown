@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+Currently VP of Engineering @ [Shogun](https://shoguninc.com).
+Previously Lead Engineer @ [FlyHomes](https://flyhomes.com).
+Working on [Cosmo](https://cosmolabs.io).
