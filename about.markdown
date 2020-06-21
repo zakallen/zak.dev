@@ -9,9 +9,9 @@ Born and raised in Chicago, I actually enjoyed the weather.
 I played varsity soccer at Northwestern and studied Computer Science in the
 McCormick School of Engineering.
 
-At Northwestern, I worked on [BarLift][barlift] 🍸, did research at [Delta Lab][delta-lab]
-and [DTR][dtr] 🥼, had a [paper published][gaze] 📝,
-and was even named [Big Ten Defensive Player of the Week][nusports] ⚽️.
+At Northwestern, I worked on [BarLift][barlift], did research at [Delta Lab][delta-lab]
+and [DTR][dtr], had a [paper published][gaze],
+and was even named [Big Ten Defensive Player of the Week][nusports].
 
 During my senior year I worked part time getting [FlyHomes][flyhomes] off the ground.
 As I finished my degree, I was able to transition to full-time and build out a 5 person

@@ -29,12 +29,13 @@ url: "https://zakallen.github.io" # the base hostname & protocol for your site, 
 twitter_username: zakallen_
 github_username:  zakallen
 linkedin_username: zakallen
-# google_analytics:
+google_analytics: UA-87145205-1
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initial commit"
-date:   2020-06-18 00:00:00 -0700
+date:   2020-06-20 00:00:00 -0700
 tags: [web, startup]
 ---
 
@@ -23,7 +23,7 @@ A million dollars. Someone could eventually buy it for that much. Wait, a billio
 
 I wonder where we should put the campus. I like the idea of everyone being remote, but an office in the early days could make the innovation happen faster.
 
-Wait, I need a name. No vowels, .io for sure. Something totally independent of the service we provide. I don't want to be the next 24 hour fitness. Something like Lime, or Uber, or Zoom. It's gotta be one syllable, easy to spell, easy to say. But I need to be able to have a good domain name. Nothing like justuse[name]co.io. 
+Wait, I need a name. No vowels, .io for sure. Something totally independent of the service we provide. I don't want to be the next 24 Hour Fitness. Something like Lime, or Uber, or Zoom. It's gotta be one syllable, easy to spell, easy to say. But I need to be able to have a good domain name. Nothing like justuse[name]co.io. 
 
 *\*Slack notification from 9-5\**
 
