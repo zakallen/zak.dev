@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Initial commit"
-date:   2020-06-20 00:00:00 -0700
+date:   2020-07-06 00:00:00 -0700
 tags: [web, startup]
 ---
 
 {% highlight bash %}
-mkdir new-project-5
+mkdir new-project-5 && cd new-project-5
 git init
 echo "wassup" >> README.md
 git add .
@@ -36,7 +36,7 @@ Ok, looks like I'll continue tomorrow. Wow, I made a lot of progress. This defin
 {% highlight bash %}
 git log
 
-commit 77734bb51b691cbc44f08ab58a46cc06c5dc79fc (HEAD -> master, origin/master)
+commit 77734bb51b691cbc43f08ab58a46cc06c5dc79fc (HEAD -> master, origin/master)
 Author: zakallen <hi@zak.dev>
 Date:   Thu Jun 18 08:46:28 2020 -0700
     initial commit
